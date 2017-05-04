@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnWidth="65sp"
+    android:numColumns="6"
+    android:layout_marginLeft="3sp"
+    android:verticalSpacing="10sp"
+    android:horizontalSpacing="3sp"
+    android:stretchMode="columnWidth"
+    android:gravity="center"
+/>
+<!-- <TextView android:id="@+id/username"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10sp"
+    android:paddingLeft="5sp"
+    android:text="Kabir"
+    android:textSize="@dimen/font_size" 
+    /> -->

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/lecture"
+    android:layout_gravity="top"
+    android:orientation="vertical" >
+
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18sp"
+        android:layout_marginTop="5sp"
+        android:gravity="center_vertical|left"
+        android:text="@string/gamification_screen1_text_5star"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        style="@style/devanagari"
+        android:textSize="@dimen/gamified_font_size" /> 
+    <!-- android:layout_alignBottom="@+id/imageView1" -->
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:orientation="horizontal" 
+        android:paddingRight="10sp"
+        android:paddingLeft="10sp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30sp"
+        >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/gamification_screen1_content_desc"
+            android:visibility="invisible"
+            android:src="@drawable/yellow_star" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:contentDescription="@string/gamification_screen1_content_desc"
+            android:visibility="invisible"
+            android:src="@drawable/yellow_star" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:contentDescription="@string/gamification_screen1_content_desc"
+            android:visibility="invisible"
+            android:src="@drawable/yellow_star" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:contentDescription="@string/gamification_screen1_content_desc"
+            android:visibility="invisible"
+            android:src="@drawable/yellow_star" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:contentDescription="@string/gamification_screen1_content_desc"
+            android:visibility="invisible"
+            android:src="@drawable/yellow_star" />
+    </LinearLayout>
+    
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:fontFamily="serif"
+        android:gravity="center_vertical|left"
+        android:text="x cpm"
+        android:layout_marginLeft="18sp"
+        style="@style/devanagari"
+        android:layout_marginTop="35sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/gamified_font_size" />
+     <TextView
+        android:id="@+id/presentedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18sp"
+        android:gravity="left"
+        android:text="shown text"
+        style="@style/devanagari"
+        android:layout_marginTop="35sp"
+        android:textColor="@color/bluegrey"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/font_size_instructions" />
+      <TextView
+        android:id="@+id/typedText"
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18sp"
+        android:gravity="left"
+  		android:textColor="@color/darkgrey"
+        android:text="typed text"
+        style="@style/devanagari"
+        android:layout_marginTop="5sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/font_size_instructions" />
+    <!--   <EditText 
+          android:id="@+id/richText"
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="18sp"
+        android:gravity="left"
+        android:layout_below="@+id/typedText"
+        android:text="skdfnksjd lsjdfkljsd lasdlaksdlk"
+        style="@style/devanagari"
+        android:layout_marginTop="15sp"
+        android:textColor="@color/darkgrey"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/font_size_instructions"
+        android:editable="false"
+          /> -->
+<!--       <TextSwitcher 
+            android:id="@+id/textSwitcher"
+            android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="18sp"
+        android:gravity="left"
+        android:layout_below="@+id/richText"
+        style="@style/devanagari"
+        android:layout_marginTop="15sp"
+        android:textColor="@color/darkgrey"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/font_size_instructions">
+          
+      </TextSwitcher> -->
+      
+
+	<!-- <ImageView
+	    android:layout_width="45sp"
+	    android:layout_height="45sp"
+	    android:layout_below="@+id/textView3"
+	    android:contentDescription="@string/gamification_screen1_content_desc"
+	    android:cropToPadding="true"
+	    android:src="@drawable/yellow_star" /> -->
+
+    <!--
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="19dp"
+        android:gravity="center_vertical|left"
+        android:text="* * * * *"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/gamified_font_size_star" />
+    -->
+
+
+    <!--
+         <Button
+        android:id="@+id/button1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="58dp"
+        android:text="@string/gamification_screen1_ok" />
+    -->
+
+
+    <!--
+             <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/yellow_star" />
+    -->
+
+</LinearLayout>

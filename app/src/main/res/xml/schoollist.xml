@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schools>
+    
+    
+    <!-- <school>
+		<name>1 - जि. प. - वाडी</name>
+		<location>Wadi, Nanded</location>
+	</school>
+	<school>
+		<name>2 - जि. प. - कासरखेडा</name>
+		<location>Kasarkheda, Nanded</location>
+	</school> -->
+	<school>
+		<name>IDC</name>
+		<location>Powai, Mumbai</location>
+	</school>
+		
+
+	
+</schools>

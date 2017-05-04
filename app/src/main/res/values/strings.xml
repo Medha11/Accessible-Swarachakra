@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name">ListViewBaseAdapter</string>
+    <string name="image">Thumbnail</string>
+    
+    <string name="app_name">Accessible Swarachakra</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_ip">Set server IP address</string>
+    <string name="title_activity_firstscreen">Firstscreen</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_session">Session</string>
+    <string name="title_activity_sessiondetails">Session details</string>
+    <string name="title_activity_type">Type</string>
+    <string name="title_activity_training">Training</string>
+    <string name="title_activity_ftu">First Time Usability</string>
+    <string name="title_activity_ltu">Longitudinal Usability</string>
+    <string name="title_activity_explore">Self-explore</string>
+    <string name="title_activity_session_feedback">Session feedback</string>
+    <string name="title_activity_session_completed">Session results</string>
+    
+    <string name="please_wait_downloading_user">Please wait for the user details to download</string>
+    <string name="please_wait_downloading_session">Please wait for the session data to download</string>
+    <string name="please_wait_downloading_session_details">Please wait for the session details to download</string>
+    <string name="please_wait_uploading">Please wait for the data to upload</string>
+    <string name="please_wait_data_dump">Please wait for the database to be backed up</string>
+
+    
+    <!-- Very good, you get 5 stars-->
+    <string name="gamification_screen1_text_5star">वा, अतिशय छान - तुम्हाला पाचही तारे</string>
+    <!-- Good - 4 stars -->
+    <string name="gamification_screen1_text_4star">छान - ४ तारे</string>
+    <!-- Nice job - 3 stars-->
+    <string name="gamification_screen1_text_3star">बरी कामगिरी झाली - ३ तारे</string>
+     <!-- You can do better -->
+    <string name="gamification_screen1_text_2star">तुम्ही नक्कीच ह्यापेक्षा चांगलं लिहू शकता</string>
+    <!-- Ask for help and learn to type once more-->
+    <string name="gamification_screen1_text_1star">मदत मागा आणि पुन्हा टायपिंग शिका</string>
+    
+    <string name="gamification_screen1_ok">OK</string>
+    <string name="gamification_screen1_content_desc">*</string>
+    <!-- Speed -->
+    <string name="gamification_screen1_speed">स्पीड / वेग</string>
+    <string name="gamification_accuracy_prize">You get a prize for typing all phrases in this session correctly.</string>
+<!--     <string name="gamification_cpm_prize">for beating your previous high score.</string> -->
+
+    <!-- Device ID settings --> 
+    <string name="set_device_id">Set Device ID (make sure the id is unique between the devices)</string>
+    <string name="set">Set</string>
+    
+    
+    <!-- Main screen -->
+    <string name="select_user">Select participant</string>
+    <string name="select_school">Select school</string>
+    <string name="start_session">Start session</string>
+    <string name="session_details">Session details</string>
+    <string name="edit_user">Edit user details</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="copy_database_to_sd_card">Backup DB locally</string>
+    <string name="download_data_from_local_server">Download</string>
+    <string name="upload_data_to_local_server">Upload</string>
+    <string name="show_user_list">Go to list of participants</string>
+    <string name="exit">Exit session</string>
+    <string name="download_all_users_from_local_server">Download all users\' data</string>
+    <string name="upload_all_data_to_local_server">Upload all users\' data</string>
+    <string name="no_users_in_db">No users in database</string>
+    <string name="upsync_first">Upsync first and then download</string>
+    
+    
+
+    <!-- Registration -->
+
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_class">Class</string>
+    <string name="label_div">Division</string>
+    <string name="label_school">School</string>
+    <string name="label_keyboard_assigned">Keyboard assigned</string>
+    <string name="label_std_task_rating">Standard task rating</string>
+    <string name="action_register">Register</string>
+
+    <!-- Text to be localised -->
+    <!-- Training -->
+
+
+    <!-- "Type this word" -->
+    <string name="write_this_word">टाइप करें</string>
+    <!-- "Error in the last word. Please try typing the word again." -->
+    <string name="try_again">शब्द चुकला. परत प्रयत्न करा.</string>
+    <!-- "Next word." -->
+    <string name="next_word">पुढचा शब्द</string>
+
+    <!-- 3. -->
+    <!-- Not needed any more. Deleted. -->
+    <!-- string name="write_something">शब्द लिहिल्यानंतर दाबा</string -->
+
+
+    <!-- FTU -->
+    <!-- "You missed the first chance, try again." -->
+    <string name="training_try_again">पहिला चान्स गेला. परत प्रयत्न करा.</string>
+
+    <!-- "You had rated the Angry Birds game as below:" -->
+    <string name="standard_task_rating">तुम्ही अँग्री बर्ड्जला इतके स्टार दिले होते:</string>
+    <!-- "How hard was this session. If you thought it was much harder than Angry Birds, give 1 star. If you thought it was as easy as Angry Birds, give 3 stars. If you thought it was much easier than Angry Birds, give 5 stars." -->
+    <string name="session_rating">आजचं सेशन कसं वाटलं? \nअँग्री बर्ड्ज पेक्षा खूप अवघड होतं असं वाटलं तर १ स्टार द्या. \nअँग्री बर्ड्ज एवढंच सोपं होतं असं वाटलं तर ३ स्टार द्या. \nअँग्री बर्ड्ज पेक्षा खूप सोपं होतं असं वाटलं तर ५ स्टार द्या.</string>
+
+    <!-- "Today's progress." -->
+    <string name="result">आजचं प्रगती पुस्तक</string>
+    <!-- "Your average typing speed." -->
+    <string name="your_writing_speed">तुमची सरासरी लेखन गती</string>
+    <!-- "Your correctness score." -->
+    <string name="your_stars">तुमचा शुद्धलेखन स्कोर</string>
+
+    <!-- "Today's session ends." -->
+    <string name="end_session">आजचं सेशन संपल.</string>
+    <string name="sessionsummary">Session summary</string>
+
+    <!-- LTU -->
+    <!-- "Type this sentence / phrase" -->
+    <string name="write_this_phrase_ltu">हे वाक्य टाइप करा.</string>
+    <!-- "Next phrase." -->
+    <string name="next_phrase">पुढचं वाक्य</string>
+
+    <!-- Self exploration -->
+    <!-- "Type what you want for five minutes." -->
+    <string name="write_explore">पाच मिनिटांसाठी तुम्हाला हवं ते टाइप करा.</string>
+    <!-- "I am done typing" -->
+    <string name="action_explore">टाइप करून झालं</string>
+
+    <string name="test_2spaces">शरदने कॅमेऱ्याने फोटो काढले</string>
+    <string name="test_2spaces_mod"> शरदने कॅमेऱ्याने फोटो काढले </string>
+    
+    <string name="test_spaces">शरदने कॅमेऱ्याने फोटो काढले</string>
+    <string name="test_spaces_mod"> शरदने    कॅमेऱ्याने   फोटो     काढले </string>
+    
+    <string name="word_shown">लिहायचा शब्द</string>
+    <string name="word_typed">लिहीलेला शब्द</string>
+</resources>

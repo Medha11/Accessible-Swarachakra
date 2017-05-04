@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\session.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\session.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\firstscreen.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\firstscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\type.xml",
+        "source": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\menu\\type.xml"
+    }
+]

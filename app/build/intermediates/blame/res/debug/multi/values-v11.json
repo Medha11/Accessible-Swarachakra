@@ -1,0 +1,562 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 54,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\themes_apptheme.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endLine": 9,
+                    "endColumn": 10,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 169,
+                        "endLine": 8,
+                        "endColumn": 10,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2658
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1995,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2663,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3083
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2422,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3088,
+                    "endColumn": 88,
+                    "endOffset": 3172
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3084,
+                        "endColumn": 88,
+                        "endOffset": 3168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3177,
+                    "endColumn": 100,
+                    "endOffset": 3273
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3173,
+                        "endColumn": 100,
+                        "endOffset": 3269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3278,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3681
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3274,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3686,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4101
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3682,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4106,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4208
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4339,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4213,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4337
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4446,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4342,
+                    "endLine": 64,
+                    "endColumn": 10,
+                    "endOffset": 4508
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 462,
+                        "endLine": 12,
+                        "endColumn": 10,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4513,
+                    "endLine": 67,
+                    "endColumn": 10,
+                    "endOffset": 4689
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endLine": 16,
+                        "endColumn": 10,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4694,
+                    "endColumn": 70,
+                    "endOffset": 4760
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4812,
+                        "endColumn": 70,
+                        "endOffset": 4878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4765,
+                    "endColumn": 82,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4883,
+                        "endColumn": 82,
+                        "endOffset": 4961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 8551
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4966,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8556,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 12399
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8674,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12404,
+                    "endColumn": 90,
+                    "endOffset": 12490
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12759,
+                        "endColumn": 90,
+                        "endOffset": 12845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12495,
+                    "endLine": 177,
+                    "endColumn": 10,
+                    "endOffset": 12780
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1089,
+                        "endLine": 26,
+                        "endColumn": 10,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 12785,
+                    "endLine": 181,
+                    "endColumn": 10,
+                    "endOffset": 13073
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1378,
+                        "endLine": 31,
+                        "endColumn": 10,
+                        "endOffset": 1666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13078,
+                    "endLine": 185,
+                    "endColumn": 10,
+                    "endOffset": 13351
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 812,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 13356,
+                    "endLine": 188,
+                    "endColumn": 10,
+                    "endOffset": 13531
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1670,
+                        "endLine": 35,
+                        "endColumn": 10,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 13536,
+                    "endLine": 220,
+                    "endColumn": 10,
+                    "endOffset": 15011
+                },
+                "from": {
+                    "file": "C:\\Users\\Pabba Anu Bharath\\Desktop\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\themes_apptheme.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 223,
+                        "endLine": 38,
+                        "endColumn": 10,
+                        "endOffset": 1698
+                    }
+                }
+            }
+        ]
+    }
+]

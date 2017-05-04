@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="game.MarathiUT.MainActivity$PlaceholderFragment" >
+
+   <!--  <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="18sp"
+        android:textSize="@dimen/font_size"
+        android:textColor="@color/grey05"
+        android:text="Participant"
+         /> -->
+    <!--         android:layout_marginTop="10dp"
+        android:layout_marginLeft="18sp" -->
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="18sp"   
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="12sp"
+        android:textSize="@dimen/font_size" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:text="Training"
+        android:textSize="@dimen/font_size" />
+    
+     <Button
+        android:id="@+id/explore"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:enabled="false"
+        android:text="Explore"
+        android:textSize="@dimen/font_size" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="FTU"
+        android:textSize="@dimen/font_size" />
+    
+
+   <!--  <TextView
+        android:id="@+id/textView2"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font_size"/> -->
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Longitudinal Task"
+        android:textSize="@dimen/font_size" />
+
+</LinearLayout>

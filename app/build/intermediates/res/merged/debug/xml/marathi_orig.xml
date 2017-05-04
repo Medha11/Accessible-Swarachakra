@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<editor>
+
+	<category text="words">
+		<level text="practice" count="2" >
+			<message id="1" phraseID = "401" wordCount="1" charCount="5">गणपती</message>
+			<message id="2" phraseID = "402" wordCount="1" charCount="6">अनिकेत</message>
+
+		</level>
+		<level text="main" count="2">
+			<message id="1" phraseID = "501" wordCount="1" charCount="3">मदत</message>
+			<message id="2" phraseID = "502" wordCount="1" charCount="3">कमळ</message>
+
+		</level>
+	</category>
+	<category text="sentence">
+
+		<level text="easy" count="90">
+			<message id="1" phraseID = "1" wordCount="3" charCount="11">तू कशी आहेस</message>
+			<message id="2" phraseID = "2" wordCount="3" charCount="14">किती वेळ लागेल</message>
+			<message id="3" phraseID = "3" wordCount="5" charCount="14">जय जय जय जय हे</message>
+			<message id="4" phraseID = "4" wordCount="4" charCount="15">हे खूप महाग आहे</message>
+			<message id="5" phraseID = "5" wordCount="3" charCount="16">केरकचरा गेला दूर</message>
+			<message id="6" phraseID = "6" wordCount="4" charCount="17">भारत माझा देश आहे</message>
+			<message id="7" phraseID = "7" wordCount="4" charCount="18">तो सकाळी लवकर उठला</message>
+			<message id="8" phraseID = "8" wordCount="3" charCount="18">बागेभोवती भिंत आहे</message>
+			<message id="9" phraseID = "9" wordCount="5" charCount="20">चला घासू या आपले दात</message>
+			<message id="10" phraseID = "10" wordCount="4" charCount="20">हात लावता पंख फाटतिल</message>
+			<message id="11" phraseID = "11" wordCount="5" charCount="22">माती नाही तर शेती नाही</message>
+			<message id="12" phraseID = "12" wordCount="4" charCount="21">तेलही गेले तूपही गेले</message>
+			<message id="13" phraseID = "13" wordCount="5" charCount="20">जन गण मंगलदायक जय हे</message>
+			<message id="14" phraseID = "14" wordCount="5" charCount="22">तुझी माझी जोडी जमली रे</message>
+			<message id="15" phraseID = "15" wordCount="5" charCount="23">वडाचे झाड खूप मोठे होते</message>
+			<message id="16" phraseID = "16" wordCount="4" charCount="16">आठवण आहे ना तुला</message>
+			<message id="17" phraseID = "17" wordCount="4" charCount="17">आता काय बोलणार मी</message>
+			<message id="18" phraseID = "18" wordCount="4" charCount="17">मला हाक का मारलीस</message>
+			<message id="19" phraseID = "19" wordCount="3" charCount="16">आपला हात जगन्नाथ</message>
+			<message id="20" phraseID = "20" wordCount="4" charCount="22">सेवक आम्ही ह्या देशाचे</message>
+			<message id="21" phraseID = "21" wordCount="4" charCount="21">झाडांची भिजली इरली रे</message>
+			<message id="22" phraseID = "22" wordCount="5" charCount="22">सगळे विश्व हेच आपले घर</message>
+			<message id="23" phraseID = "23" wordCount="5" charCount="23">जिथे राबती हात तेथे हरी</message>
+			<message id="24" phraseID = "24" wordCount="4" charCount="22">गाढव हळुहळू चालू लागले</message>
+			<message id="25" phraseID = "25" wordCount="6" charCount="35">राजाज्ञाच ती तिचे तंतोतंत पालन झाले</message>
+			<message id="26" phraseID = "26" wordCount="6" charCount="26">त्याची खाकी पँट तर नीट बघा</message>
+			<message id="27" phraseID = "27" wordCount="6" charCount="30">मग ती काही पिच्छा सोडणार नाहीत</message>
+			<message id="28" phraseID = "28" wordCount="6" charCount="37">ह्या अश्रूंचे मात्र हिरे व्हायला नकोत</message>
+			<message id="29" phraseID = "29" wordCount="6" charCount="40">तीच मला हिर्‍यांच्या हारासारखी वाटते आहे</message>
+			<message id="30" phraseID = "30" wordCount="7" charCount="45">तुम्ही पिशवी आणून देणार्‍यास काही बक्षीस ठेवा</message>
+			<message id="31" phraseID = "31" wordCount="3" charCount="11">तू कशी आहेस</message>
+			<message id="32" phraseID = "32" wordCount="3" charCount="14">किती वेळ लागेल</message>
+			<message id="33" phraseID = "33" wordCount="5" charCount="14">जय जय जय जय हे</message>
+			<message id="34" phraseID = "34" wordCount="4" charCount="15">हे खूप महाग आहे</message>
+			<message id="35" phraseID = "35" wordCount="3" charCount="16">केरकचरा गेला दूर</message>
+			<message id="36" phraseID = "36" wordCount="4" charCount="17">भारत माझा देश आहे</message>
+			<message id="37" phraseID = "37" wordCount="4" charCount="18">तो सकाळी लवकर उठला</message>
+			<message id="38" phraseID = "38" wordCount="3" charCount="18">बागेभोवती भिंत आहे</message>
+			<message id="39" phraseID = "39" wordCount="5" charCount="20">चला घासू या आपले दात</message>
+			<message id="40" phraseID = "40" wordCount="4" charCount="20">हात लावता पंख फाटतिल</message>
+			<message id="41" phraseID = "41" wordCount="5" charCount="22">माती नाही तर शेती नाही</message>
+			<message id="42" phraseID = "42" wordCount="4" charCount="21">तेलही गेले तूपही गेले</message>
+			<message id="43" phraseID = "43" wordCount="5" charCount="20">जन गण मंगलदायक जय हे</message>
+			<message id="44" phraseID = "44" wordCount="5" charCount="22">तुझी माझी जोडी जमली रे</message>
+			<message id="45" phraseID = "45" wordCount="5" charCount="23">वडाचे झाड खूप मोठे होते</message>
+			<message id="46" phraseID = "46" wordCount="4" charCount="16">आठवण आहे ना तुला</message>
+			<message id="47" phraseID = "47" wordCount="4" charCount="17">आता काय बोलणार मी</message>
+			<message id="48" phraseID = "48" wordCount="4" charCount="17">मला हाक का मारलीस</message>
+			<message id="49" phraseID = "49" wordCount="3" charCount="16">आपला हात जगन्नाथ</message>
+			<message id="50" phraseID = "50" wordCount="4" charCount="22">सेवक आम्ही ह्या देशाचे</message>
+			<message id="51" phraseID = "51" wordCount="4" charCount="21">झाडांची भिजली इरली रे</message>
+			<message id="52" phraseID = "52" wordCount="5" charCount="22">सगळे विश्व हेच आपले घर</message>
+			<message id="53" phraseID = "53" wordCount="5" charCount="23">जिथे राबती हात तेथे हरी</message>
+			<message id="54" phraseID = "54" wordCount="4" charCount="22">गाढव हळुहळू चालू लागले</message>
+			<message id="55" phraseID = "55" wordCount="6" charCount="35">राजाज्ञाच ती तिचे तंतोतंत पालन झाले</message>
+			<message id="56" phraseID = "56" wordCount="6" charCount="26">त्याची खाकी पँट तर नीट बघा</message>
+			<message id="57" phraseID = "57" wordCount="6" charCount="30">मग ती काही पिच्छा सोडणार नाहीत</message>
+			<message id="58" phraseID = "58" wordCount="6" charCount="37">ह्या अश्रूंचे मात्र हिरे व्हायला नकोत</message>
+			<message id="59" phraseID = "59" wordCount="6" charCount="40">तीच मला हिर्‍यांच्या हारासारखी वाटते आहे</message>
+			<message id="60" phraseID = "60" wordCount="7" charCount="45">तुम्ही पिशवी आणून देणार्‍यास काही बक्षीस ठेवा</message>
+			<message id="61" phraseID = "61" wordCount="3" charCount="11">तू कशी आहेस</message>
+			<message id="62" phraseID = "62" wordCount="3" charCount="14">किती वेळ लागेल</message>
+			<message id="63" phraseID = "63" wordCount="5" charCount="14">जय जय जय जय हे</message>
+			<message id="64" phraseID = "64" wordCount="4" charCount="15">हे खूप महाग आहे</message>
+			<message id="65" phraseID = "65" wordCount="3" charCount="16">केरकचरा गेला दूर</message>
+			<message id="66" phraseID = "66" wordCount="4" charCount="17">भारत माझा देश आहे</message>
+			<message id="67" phraseID = "67" wordCount="4" charCount="18">तो सकाळी लवकर उठला</message>
+			<message id="68" phraseID = "68" wordCount="3" charCount="18">बागेभोवती भिंत आहे</message>
+			<message id="69" phraseID = "69" wordCount="5" charCount="20">चला घासू या आपले दात</message>
+			<message id="70" phraseID = "70" wordCount="4" charCount="20">हात लावता पंख फाटतिल</message>
+			<message id="71" phraseID = "71" wordCount="5" charCount="22">माती नाही तर शेती नाही</message>
+			<message id="72" phraseID = "72" wordCount="4" charCount="21">तेलही गेले तूपही गेले</message>
+			<message id="73" phraseID = "73" wordCount="5" charCount="20">जन गण मंगलदायक जय हे</message>
+			<message id="74" phraseID = "74" wordCount="5" charCount="22">तुझी माझी जोडी जमली रे</message>
+			<message id="75" phraseID = "75" wordCount="5" charCount="23">वडाचे झाड खूप मोठे होते</message>
+			<message id="76" phraseID = "76" wordCount="4" charCount="16">आठवण आहे ना तुला</message>
+			<message id="77" phraseID = "77" wordCount="4" charCount="17">आता काय बोलणार मी</message>
+			<message id="78" phraseID = "78" wordCount="4" charCount="17">मला हाक का मारलीस</message>
+			<message id="79" phraseID = "79" wordCount="3" charCount="16">आपला हात जगन्नाथ</message>
+			<message id="80" phraseID = "80" wordCount="4" charCount="22">सेवक आम्ही ह्या देशाचे</message>
+			<message id="81" phraseID = "81" wordCount="4" charCount="21">झाडांची भिजली इरली रे</message>
+			<message id="82" phraseID = "82" wordCount="5" charCount="22">सगळे विश्व हेच आपले घर</message>
+			<message id="83" phraseID = "83" wordCount="5" charCount="23">जिथे राबती हात तेथे हरी</message>
+			<message id="84" phraseID = "84" wordCount="4" charCount="22">गाढव हळुहळू चालू लागले</message>
+			<message id="85" phraseID = "85" wordCount="6" charCount="35">राजाज्ञाच ती तिचे तंतोतंत पालन झाले</message>
+			<message id="86" phraseID = "86" wordCount="6" charCount="26">त्याची खाकी पँट तर नीट बघा</message>
+			<message id="87" phraseID = "87" wordCount="6" charCount="30">मग ती काही पिच्छा सोडणार नाहीत</message>
+			<message id="88" phraseID = "88" wordCount="6" charCount="37">ह्या अश्रूंचे मात्र हिरे व्हायला नकोत</message>
+			<message id="89" phraseID = "89" wordCount="6" charCount="40">तीच मला हिर्‍यांच्या हारासारखी वाटते आहे</message>
+			<message id="90" phraseID = "90" wordCount="7" charCount="45">तुम्ही पिशवी आणून देणार्‍यास काही बक्षीस ठेवा</message>
+
+		</level>
+		<level text="medium" count="0">
+
+		</level>
+		<level text="hard" count="0">
+
+		</level>
+	</category>
+
+</editor>

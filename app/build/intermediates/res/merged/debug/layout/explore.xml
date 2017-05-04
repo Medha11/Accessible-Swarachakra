@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      
+   
+   <!--  <TextView
+           android:id="@+id/textView3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_alignParentLeft="true"
+           android:paddingLeft="12sp"
+           android:layout_marginTop="10dp"
+           android:text="@string/write_explore"
+           android:textAppearance="?android:attr/textAppearanceLarge"
+           android:textSize="@dimen/font_size"
+           
+           /> -->
+     <TextView
+           android:id="@+id/timer"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_toRightOf="@+id/textView3"
+           android:layout_alignParentRight="true"
+           android:paddingRight="12sp"
+           android:paddingLeft="12sp"
+           android:layout_marginTop="10dp"
+           android:text=""
+           android:textColor="@color/red"
+           android:textSize="@dimen/font_size"
+           
+           />
+      <EditText
+          android:id="@+id/editText1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentLeft="true"
+          android:layout_marginLeft="18dp"
+          android:layout_marginTop="30dp"
+          android:inputType="text|textMultiLine" 
+          android:textSize="@dimen/font_size"
+          style="@style/devanagari"
+          >
+
+          <requestFocus />
+      </EditText>
+
+      <Button
+          android:id="@+id/nextText"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentRight="true"
+          android:layout_below="@+id/editText1"
+          android:enabled="false"
+          style="@style/devanagari"
+          android:text="@string/action_explore"
+          android:textSize="@dimen/font_size" />
+    <android.inputmethodservice.KeyboardView
+        android:id="@+id/keyboardview"
+        android:labelTextSize="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:visibility="visible"
+        android:keyBackground="@drawable/keyicon"
+        />
+</RelativeLayout>

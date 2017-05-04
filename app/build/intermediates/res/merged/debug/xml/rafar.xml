@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="16.66%p"
+    android:keyHeight="8.5%p"
+    >
+    <!--
+        android:horizontalGap="0.50%p"
+        android:verticalGap="0.50%p"
+        NOTE When we add a horizontalGap in pixels, this interferes with keyWidth in percentages adding up to 100%
+        NOTE When we have a horizontalGap (on Keyboard level) of 0, this make the horizontalGap (on Key level) to move from after the key to before the key... (I consider this a bug)
+     -->
+
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u0915" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u0916" />
+        <Key   android:keyLabel="\u0930\u094D\u0917" />
+        <Key   android:keyLabel="\u0930\u094D\u0918"  />
+        <Key   android:keyLabel="\u0930\u094D\u0919" />
+        <Key   android:codes="-5" android:keyIcon="@drawable/sym_keyboard_delete" android:keyHeight="17%p" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u091A" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u091B" />
+        <Key   android:keyLabel="\u0930\u094D\u091C" />
+        <Key   android:keyLabel="\u0930\u094D\u091D" />
+        <Key   android:keyLabel="\u0930\u094D\u091E"  android:keyEdgeFlags="right" />
+
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u091F" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u0920" />
+        <Key   android:keyLabel="\u0930\u094D\u0921" />
+        <Key   android:keyLabel="\u0930\u094D\u0922" />
+        <Key   android:keyLabel="\u0930\u094D\u0923"  />
+        <Key     android:keyLabel="\u0902" android:keyEdgeFlags="right"   />
+
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u0924" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u0925" />
+        <Key   android:keyLabel="\u0930\u094D\u0926" />
+        <Key   android:keyLabel="\u0930\u094D\u0927" />
+        <Key   android:keyLabel="\u0930\u094D\u0928"  />
+        <Key     android:keyLabel="\u0903"  android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u092A" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u092B" />
+        <Key   android:keyLabel="\u0930\u094D\u092C" />
+        <Key   android:keyLabel="\u0930\u094D\u092D" />
+        <Key   android:keyLabel="\u0930\u094D\u092E" />
+        <Key   android:keyLabel="\u0901"  android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u092F" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u0930" />
+        <Key   android:keyLabel="\u0930\u094D\u0932" />
+        <Key   android:keyLabel="\u0930\u094D\u0935" />
+        <Key   android:keyLabel="\u0930\u094D\u0936"  />
+        <Key   android:codes="23663" android:keyIcon="@drawable/nukta"  android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u0937" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel="\u0930\u094D\u0938" />
+        <Key   android:keyLabel="\u0930\u094D\u0939" />
+        <Key   android:keyLabel="\u0930\u094D\u0924\u094D\u0930" />
+        <Key   android:keyLabel="\u0930\u094D\u0915\u094D\u0937"  />
+        <Key   android:codes="23664" android:keyIcon="@drawable/trakar"  android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key   android:keyLabel="\u0930\u094D\u091C\u094D\u091E" android:keyEdgeFlags="left" />
+        <Key   android:keyLabel= "\u0930\u094D\u0936\u094D\u0930" />
+        <Key   android:keyLabel="\u093E" />
+        <Key   android:keyLabel="\u0943" />
+        <Key   android:keyLabel="\u0905"   />
+        <Key   android:codes="23665" android:keyIcon="@drawable/rafar" android:keyEdgeFlags="right" />
+    </Row>
+    <!--<Row>-->
+    <!--<Key   android:keyLabel="En"  android:keyWidth="33.3%p" android:keyEdgeFlags="left" />-->
+    <!--<Key   android:keyLabel= "" android:keyWidth="33.3%p"/>-->
+    <!--<Key    android:keyIcon="@drawable/search"  android:keyEdgeFlags="right" android:keyWidth="33.3%p" />-->
+    <!--</Row>-->
+    <Row>
+        <Key  android:codes="32" android:keyIcon="@drawable/sym_keyboard_left" android:keyEdgeFlags="left" />
+        <Key  android:codes="32" android:keyIcon="@drawable/sym_keyboard_right"   android:keyEdgeFlags="left" />
+
+        <Key  android:codes="32" android:keyLabel="Space"  android:keyWidth="50.2%p" android:keyEdgeFlags="left" />
+        <Key android:codes="55003"    android:keyIcon="@drawable/enter_arrow"  android:keyEdgeFlags="right" /> </Row>
+</Keyboard>

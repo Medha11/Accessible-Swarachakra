@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/school_label"
+        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="7dp"
+        android:text="@string/select_school"
+        android:textSize="@dimen/font_size" />
+    
+
+    <ListView
+        android:id="@+id/school_list"
+        style="@style/devanagari"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="7dp"
+        android:hapticFeedbackEnabled="true" 
+        android:divider="@color/blueswatchlite"
+        android:dividerHeight="1dip"    
+        android:fastScrollEnabled="true"
+        android:scrollbars="vertical"  
+        android:background="@drawable/border"
+        />
+<LinearLayout
+	    android:id="@+id/ll2"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="7dp"
+	    android:layout_marginTop="10dp"
+	    android:gravity="center_vertical"
+	    android:orientation="vertical" >
+
+    	<Button
+		    android:id="@+id/newUser"
+		    android:layout_width="150dp"
+            android:layout_height="wrap_content"
+		    android:text="@string/add_new_user"
+		    android:textSize="@dimen/font_size" />
+    	 <Button
+	        android:id="@+id/user_list"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/show_user_list"
+	        android:enabled="false"
+	        android:textSize="@dimen/font_size" />
+    	 
+    	 <Button
+	        android:id="@+id/upsync"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="0.83"
+	        android:text="@string/upload_all_data_to_local_server"
+	        android:enabled="true"
+	        android:textSize="@dimen/font_size" />
+    	 
+	    <Button
+	        android:id="@+id/downsync"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/download_all_users_from_local_server"
+	        android:enabled="true"
+	        android:textSize="@dimen/font_size" />	   
+
+	    
+	     <Button
+	        android:id="@+id/dump"
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/copy_database_to_sd_card"
+	        android:enabled="true"
+	        android:textSize="@dimen/font_size" />
+	     
+	</LinearLayout>
+	
+
+</LinearLayout>

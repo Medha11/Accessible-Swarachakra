@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+	<category text="words">
+		<level count="8" text="practice">
+			<message phraseID = "401" charCount="5" id="1" wordCount="1">समझकर</message>
+			<message phraseID = "402" charCount="5" id="2" wordCount="1">ग़ायब</message>
+			<message phraseID = "403" charCount="6" id="3" wordCount="1">स्वागत </message>
+			<message phraseID = "404" charCount="6" id="4" wordCount="1">पृथ्वी  </message>
+			<message phraseID = "405" charCount="9" id="5" wordCount="1">कार्यशाला </message>
+			<message phraseID = "406" charCount="7" id="6" wordCount="1">अहंकारी </message>
+			<message phraseID = "407" charCount="3" id="7" wordCount="1">ऊपर </message>
+			<message phraseID = "408" charCount="4" id="8" wordCount="1">चाँद  </message>
+		</level>
+		<level count="14" text="main">
+			<message phraseID = "501" charCount="3" id="1" wordCount="1">कमल  </message>
+			<message phraseID = "502" charCount="6" id="2" wordCount="1">आमदनी </message>
+			<message phraseID = "503" charCount="4" id="3" wordCount="1">भारत </message>
+			<message phraseID = "504" charCount="4" id="4" wordCount="1">विनय </message>
+			<message phraseID = "505" charCount="5" id="5" wordCount="1">अंकित </message>
+			<message phraseID = "506" charCount="5" id="6" wordCount="1">ज़मीन </message>
+			<message phraseID = "507" charCount="7" id="7" wordCount="1">व्यक्ति </message>
+			<message phraseID = "508" charCount="7" id="8" wordCount="1">आस्तीन  </message>
+			<message phraseID = "509" charCount="5" id="9" wordCount="1">स्टार  </message>
+			<message phraseID = "510" charCount="5" id="10" wordCount="1">बर्फी </message>
+			<message phraseID = "511" charCount="5" id="11" wordCount="1">शर्मा  </message>
+			<message phraseID = "512" charCount="6" id="12" wordCount="1">नम्रता </message>
+			<message phraseID = "513" charCount="5" id="13" wordCount="1">कृपया  </message>
+			<message phraseID = "514" charCount="4" id="14" wordCount="1">दुःख </message>
+		</level>
+	</category>
+	<category text="sentence">
+		<level count="40" text="easy">
+			<message phraseID = "1" charCount="11" id="1" wordCount="3">मना कर देना</message>
+			<message phraseID = "2" charCount="8" id="2" wordCount="2">याद रखना</message>
+			<message phraseID = "3" charCount="13" id="3" wordCount="3">सबसे अलग रहना</message>
+			<message phraseID = "4" charCount="9" id="4" wordCount="2">धोखा देना</message>
+			<message phraseID = "5" charCount="15" id="5" wordCount="3">करारा जवाब देना</message>
+			<message phraseID = "6" charCount="14" id="6" wordCount="3">मकान खड़े करना</message>
+			<message phraseID = "7" charCount="7" id="7" wordCount="2">बधाई हो</message>
+			<message phraseID = "8" charCount="9" id="8" wordCount="2">पोल खुलना</message>
+			<message phraseID = "9" charCount="10" id="9" wordCount="2">बदनाम करना</message>
+			<message phraseID = "10" charCount="9" id="10" wordCount="2">धाक जमाना</message>
+			<message phraseID = "11" charCount="9" id="11" wordCount="2">विवश होना</message>
+			<message phraseID = "12" charCount="10" id="12" wordCount="2">हाथ पसारना</message>
+			<message phraseID = "13" charCount="15" id="13" wordCount="3">लाखों में खेलना</message>
+			<message phraseID = "14" charCount="10" id="14" wordCount="2">तारे गिनना</message>
+			<message phraseID = "15" charCount="9" id="15" wordCount="2">गाल बजाना</message>
+			<message phraseID = "16" charCount="9" id="16" wordCount="2">खून खौलना</message>
+			<message phraseID = "17" charCount="16" id="17" wordCount="4">गूलर का फूल होना</message>
+			<message phraseID = "18" charCount="11" id="18" wordCount="2">घुटने टेकना</message>
+			<message phraseID = "19" charCount="11" id="19" wordCount="2">अनुभवी होना</message>
+			<message phraseID = "20" charCount="15" id="20" wordCount="3">चिकना घड़ा होना</message>
+			<message phraseID = "21" charCount="9" id="21" wordCount="2">चतुर होना</message>
+			<message phraseID = "22" charCount="14" id="22" wordCount="3">सावधान हो जाना</message>
+			<message phraseID = "23" charCount="11" id="23" wordCount="3">मन फिर जाना</message>
+			<message phraseID = "24" charCount="9" id="24" wordCount="2">ज़हर उगलना</message>
+			<message phraseID = "25" charCount="12" id="25" wordCount="3">जान पर खेलना</message>
+			<message phraseID = "26" charCount="12" id="26" wordCount="3">ग़ायब हो जाना</message>
+			<message phraseID = "27" charCount="8" id="27" wordCount="2">दखल देना</message>
+			<message phraseID = "28" charCount="10" id="28" wordCount="2">कठिन कार्य</message>
+			<message phraseID = "29" charCount="9" id="29" wordCount="2">हड़प लेना</message>
+			<message phraseID = "30" charCount="10" id="30" wordCount="2">खोखला होना</message>
+			<message phraseID = "31" charCount="9" id="31" wordCount="2">बिखर जाना</message>
+			<message phraseID = "32" charCount="9" id="32" wordCount="2">मार डालना</message>
+			<message phraseID = "33" charCount="11" id="33" wordCount="2">गहरी दोस्ती</message>
+			<message phraseID = "34" charCount="10" id="34" wordCount="2">अनुभव होना</message>
+			<message phraseID = "35" charCount="10" id="35" wordCount="2">बहुत सताना</message>
+			<message phraseID = "36" charCount="10" id="36" wordCount="2">विपरीत मेल</message>
+			<message phraseID = "37" charCount="9" id="37" wordCount="2">अमिट हो जाना</message>
+			<message phraseID = "38" charCount="10" id="38" wordCount="3">नींद न आना</message>
+			<message phraseID = "39" charCount="9" id="39" wordCount="2">विवश होना</message>
+			<message phraseID = "40" charCount="14" id="40" wordCount="3">दयनीय दशा होना</message>
+		</level>
+		<level count="20" text="medium">
+			<message phraseID = "41" charCount="9" id="1" wordCount="2">घबरा जाना</message>
+			<message phraseID = "42" charCount="14" id="2" wordCount="4">अंत भला तो सब भला</message>
+			<message phraseID = "43" charCount="10" id="3" wordCount="2">टेक निभाना</message>
+			<message phraseID = "44" charCount="9" id="4" wordCount="2">मज़ा चखाना</message>
+			<message phraseID = "45" charCount="9" id="5" wordCount="2">मन मसोसना</message>
+			<message phraseID = "46" charCount="14" id="6" wordCount="4">लाख टके की बात</message>
+			<message phraseID = "47" charCount="13" id="7" wordCount="3">चार चाँद लगना</message>
+			<message phraseID = "48" charCount="12" id="8" wordCount="3">खूब लाभ होना</message>
+			<message phraseID = "49" charCount="13" id="9" wordCount="3">झूठी आशा देना</message>
+			<message phraseID = "50" charCount="17" id="10" wordCount="4">घूरे के दिन फिरना</message>
+			<message phraseID = "51" charCount="20" id="11" wordCount="4">प्राण संकट में पड़ना</message>
+			<message phraseID = "52" charCount="13" id="12" wordCount="2">अंगारे बरसाना</message>
+			<message phraseID = "53" charCount="17" id="13" wordCount="4">हाथों के तोते उड़ना</message>
+			<message phraseID = "54" charCount="13" id="14" wordCount="3">दिल कड़वा करना</message>
+			<message phraseID = "55" charCount="13" id="15" wordCount="3">कट कर चला जाना</message>
+			<message phraseID = "56" charCount="13" id="16" wordCount="2">कचूमर निकालना</message>
+			<message phraseID = "57" charCount="16" id="17" wordCount="4">कथनी से करनी भली</message>
+			<message phraseID = "58" charCount="14" id="18" wordCount="3">कफन फाड़कर उठना</message>
+			<message phraseID = "59" charCount="14" id="19" wordCount="4">कसर उठा न रखना</message>
+			<message phraseID = "60" charCount="11" id="20" wordCount="3">गले पड़ा ढोल</message>
+		</level>
+		<level count="20" text="hard">
+			<message phraseID = "61" charCount="17" id="1" wordCount="4">ज़बान को लगाम देना</message>
+			<message phraseID = "62" charCount="13" id="2" wordCount="2">एक से बढ़कर एक</message>
+			<message phraseID = "63" charCount="17" id="3" wordCount="4">लोहे के चने चबाना</message>
+			<message phraseID = "64" charCount="18" id="4" wordCount="4">गरीबी में आटा गीला</message>
+			<message phraseID = "65" charCount="18" id="5" wordCount="4">गागर में सागर भरना</message>
+			<message phraseID = "66" charCount="18" id="6" wordCount="4">पत्थर की लकीर होना</message>
+			<message phraseID = "67" charCount="28" id="7" wordCount="6">उपदेश करने से स्वयं करना भला</message>
+			<message phraseID = "68" charCount="17" id="8" wordCount="4">कलेजे पर हाथ रखना</message>
+			<message phraseID = "69" charCount="18" id="9" wordCount="3">गिन गिनकर कदम रखना</message>
+			<message phraseID = "70" charCount="16" id="10" wordCount="3">घन चक्कर में आना</message>
+			<message phraseID = "71" charCount="20" id="11" wordCount="4">अंधेरे में तीर चलाना</message>
+			<message phraseID = "72" charCount="17" id="12" wordCount="4">घाव पर नमक छिड़कना</message>
+			<message phraseID = "73" charCount="15" id="13" wordCount="3">घोड़े बेचकर सोना</message>
+			<message phraseID = "74" charCount="15" id="14" wordCount="3">चंगुल में फँसना</message>
+			<message phraseID = "75" charCount="23" id="15" wordCount="4">इज्जत मिट्टी में मिलाना</message>
+			<message phraseID = "76" charCount="25" id="16" wordCount="5">मनुष्य की पहचान उसकी संगत</message>
+			<message phraseID = "77" charCount="31" id="17" wordCount="6">झूठे दोस्त से खुला दुश्मन अच्छा</message>
+			<message phraseID = "78" charCount="25" id="18" wordCount="6">ईंट का जवाब पत्थर से देना</message>
+			<message phraseID = "79" charCount="30" id="19" wordCount="4">जन्मदिन की हार्दिक शुभकामनायें</message>
+			<message phraseID = "80" charCount="28" id="20" wordCount="5">आमदनी अठन्नी और खर्चा रुपैया</message>
+		</level>
+	</category>
+</root>

@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:orientation="vertical"
+    tools:context="game.MarathiUT.MainActivity$PlaceholderFragment" >
+
+    <!--
+        <ListView 
+        android:id="@+id/userlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:background="@color/grey05"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:paddingLeft="10dp"
+        android:fontFamily="monospace"
+         />
+    -->
+
+    <LinearLayout
+        android:id="@+id/filteruser"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/border"
+        android:orientation="vertical" >
+
+        <!-- android:orientation="vertical" -->
+
+
+        <!--
+        <TextView
+            android:id="@+id/txtview2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/select_school"
+            android:textSize="@dimen/font_size" />
+
+        <Spinner
+            android:id="@+id/school"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/devanagari"
+            android:hapticFeedbackEnabled="true" />
+        -->
+
+        <TextView
+            android:id="@+id/txtview1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/select_user"
+            android:textSize="@dimen/font_size" />
+
+        <ListView
+            android:id="@+id/user"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:background="@drawable/border"
+            android:divider="@color/blueswatchlite"
+            android:fastScrollEnabled="true"
+            android:hapticFeedbackEnabled="true"
+            android:scrollbars="vertical" />
+
+        <!--
+            <ListView
+                android:choiceMode="singleChoice"
+            android:id="@+id/user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="true" />
+        -->
+
+        <LinearLayout
+            android:id="@+id/btns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/startsession"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="@string/start_session"
+                android:textSize="@dimen/font_size"
+                android:width="100dp" />
+
+            <Button
+                android:id="@+id/showSession"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="@string/session_details"
+                android:textSize="@dimen/font_size"
+                android:width="100dp" />
+
+            <Button
+                android:id="@+id/editUser"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="@string/edit_user"
+                android:textSize="@dimen/font_size"
+                android:width="100dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exit"
+            android:textSize="@dimen/font_size"
+            android:width="100dp" />
+    </LinearLayout>
+    <!--
+               android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+    -->
+
+</RelativeLayout>

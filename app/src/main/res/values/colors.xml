@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ffF44336</color>
+    <!-- <color name="tomato">#ffff6347</color> -->
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+  <!--   <color name="yellow1">#ffffd700</color>
+    <color name="yellow2">#ffdaa520</color> -->
+    <color name="grey05">#ffa9a9a9</color>
+    <color name="grey02">#ffd3d3d3</color>
+    <color name="grey01">#ff696969</color>
+   <!--  <color name="orange4">#ffff8c00</color>
+    <color name="orange5">#ffff7f50</color> -->
+    <!-- <color name="blue2">#ff00bfff</color> -->
+    <color name="blue25">#ff0288D1</color>
+   <!--  <color name="ozone">#ffff3300</color>
+    <color name="initiative">#ff99ff33</color>
+    <color name="competition">#ffffcc66</color>
+    <color name="technoholix">#ff9999ff</color>
+    <color name="exhibition">#ffff9933</color>
+    <color name="lecture">#ff99ccff</color>
+    <color name ="grey6">#ffc8c8c8</color> -->
+    <color name="lecture">#ff99ccff</color>
+    <color name ="darkgrey">#ff585858</color>
+    <color name ="darkgrey2">#ff212121</color> 
+    <color name ="bluegrey">#ff37474f</color>
+    <color name ="offwhite">#ffe8e8e8</color>
+    <color name="blue26">#B3E5FC</color>
+    
+    <!-- <color name = "blueswatch">#ff0099cc</color> -->
+    <color name = "blueswatchlite">#ff29B6F6</color> <!--  #ff33B5E5 -->
+    <color name ="bluelistview">#ff4FC3F7</color>
+    
+
+</resources>

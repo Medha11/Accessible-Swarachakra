@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="game.Typing"
+     >
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+         <activity
+            android:name="game.Typing.SetIpAndId"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="game.Typing.Firstscreen"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"            
+            >
+            <intent-filter>
+                <action android:name="game.MarathiUT.FIRSTSCREEN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="game.Typing.SchoolSelection"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            
+            >
+            <intent-filter>
+                <action android:name="game.MarathiUT.SCHOOLSELECTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.Login"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_login"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Firstscreen"
+            android:screenOrientation="portrait"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Firstscreen" />
+
+            <intent-filter>
+                <action android:name="game.MarathiUT.LOGIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.Register"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_register"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Firstscreen"
+            android:screenOrientation="portrait"
+             >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Firstscreen" />
+
+            <intent-filter>
+                <action android:name="game.MarathiUT.REGISTER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.Session"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_session"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Firstscreen"
+            android:screenOrientation="portrait"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Firstscreen" />
+
+            <intent-filter>
+                <action android:name="game.MarathiUT.SESSION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.sessiondetails"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_sessiondetails"
+            android:parentActivityName="game.Typing.Firstscreen"
+            android:screenOrientation="portrait">
+                        <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Firstscreen" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.sessiondetails" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> 
+        </activity>
+        <activity
+            android:name="game.Typing.Type"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_type"
+
+            android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.TYPE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="game.Typing.Training"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_training"
+            android:noHistory="true"
+             android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+             android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible"
+             >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.TRAINING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.FTU"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_ftu"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.FTU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="game.Typing.Longitudinal"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_ltu"
+             android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.LONGITUDINAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="game.Typing.Explore"
+            android:configChanges="orientation"
+             android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:label="@string/title_activity_explore"
+            android:parentActivityName="game.Typing.Explore"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.EXPLORE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.SessionFeedback"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_session_feedback"
+             android:noHistory="true"
+            android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.SESSIONFEEDBACK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="game.Typing.Gamification"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_session_completed"
+            android:noHistory="true"
+            android:parentActivityName="game.Typing.Session"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="game.Typing.Session" />
+            <intent-filter>
+                <action android:name="game.MarathiUT.GAMIFICATION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

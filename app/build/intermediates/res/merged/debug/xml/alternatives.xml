@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alternatives>
+
+    <!-- eyelash ra -->
+    <alternative needle="\u0930\u093c\u094d" replaceWith="\u0931\u094d" />
+    <alternative needle="\u0930\u093c\u094d\u200d" replaceWith="\u0931\u094d" />    
+    <alternative needle="\u0930\u094d\u093c" replaceWith="\u0931\u094d" />
+    <alternative needle="\u0930\u094d\u093c\u200d" replaceWith="\u0931\u094d" />    
+    <alternative needle="\u0930\u094d\u200d" replaceWith="\u0931\u094d" />    
+    <alternative needle="\u0931\u094d\u200d" replaceWith="\u0931\u094d" />
+    
+
+    <!-- double and triple spaces -->
+
+    <alternative needle="\u0020\u0020\u0020\u0020" replaceWith="\u0020" />
+    <alternative needle="\u0020\u0020\u0020" replaceWith="\u0020" />
+    <alternative needle="\u0020\u0020" replaceWith="\u0020" />
+
+    <!-- allow chandra bindu for chandrakor -->
+    <alternative needle="\u0901" replaceWith="\u0945" />
+
+    <!-- docter -->
+    <alternative needle="\u0945\u093e" replaceWith="\u0949" />
+    <alternative needle="\u093e\u0945" replaceWith="\u0949" />
+
+    <!-- oo, matra -->
+    <!-- <alternative needle="\u0947\u093e" replaceWith="\u094b" /> -->
+    <alternative needle="\u093e\u0947" replaceWith="\u094b" />
+
+    <!-- au, matra -->
+    <!-- <alternative needle="\u0948\u093e" replaceWith="\u094c" /> -->
+    <alternative needle="\u093e\u0948" replaceWith="\u094c" />
+
+    <!-- au, independent vowel -->
+    <alternative needle="\u0905\u094c" replaceWith="\u0914" />
+    <alternative needle="\u0906\u0948" replaceWith="\u0914" />
+	<alternative needle="\u0905\u093e\u0948" replaceWith="\u0914" />
+	
+	<!-- o, independent vowel -->
+	<alternative needle="\u0905\u094b" replaceWith="\u0913" />
+    <alternative needle="\u0906\u0947" replaceWith="\u0913" />
+	<alternative needle="\u0905\u093e\u0947" replaceWith="\u0913" />
+	
+	<!-- aa, independent vowel -->
+	<alternative needle="\u0905\u093e" replaceWith="\u0906" />
+
+    <!-- big & small matra, independent vowel -->
+    <alternative needle="ि" replaceWith="ी" />
+    <alternative needle="ु" replaceWith="ू" />
+    <alternative needle="े" replaceWith="ै" />
+
+	
+</alternatives>
